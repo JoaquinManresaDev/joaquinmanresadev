@@ -1,3 +1,6 @@
 # joaquinmanresadev.github.io
 
-Hola esta pagina es para mostrar mis apuntes de programacion web
+Apuntes de la materia Programacion Web
+
+14/04
+Cambiar la frase del buscador a: 'Buscar contenido' o 'Buscar'
